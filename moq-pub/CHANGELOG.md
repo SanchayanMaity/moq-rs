@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.7.1](https://github.com/kixelated/moq-rs/compare/moq-pub-v0.7.0...moq-pub-v0.7.1) - 2024-09-03
+
+### Other
+- update Cargo.lock dependencies
+
 ## [0.6.1](https://github.com/kixelated/moq-rs/compare/moq-pub-v0.6.0...moq-pub-v0.6.1) - 2024-07-24
 
 ### Other
